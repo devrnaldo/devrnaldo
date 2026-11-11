@@ -23,15 +23,15 @@
 
 ---
 
-## ⚡ Quick Intro
+## Quick Intro
 
 👋 Halo! Saya **Muhammad Deva Ronaldo**, seorang Lulusan S1 Teknologi Informasi dari **Universitas Bangka Belitung** dengan spesialisasi di bidang **Full-Stack Web Development** dan **System Analysis**.
 
-* 🌐 **Website Portofolio:** [devrnaldo.my.id](https://devrnaldo.my.id)
-* 🎓 **Pendidikan:** S1 Teknologi Informasi - Universitas Bangka Belitung (2022 – 2026).
-* 🔭 **Fokus Utama:** Pengembangan Aplikasi Web Full-Stack (Laravel, Next.js, React), Sistem IoT, & Arsitektur Cloud.
-* 🌱 **Saat ini sedang memperdalam:** Advanced TypeScript, System Architecture, & Cloud Infrastructure.
-* 📫 **Hubungi saya:** [devrnaldo@gmail.com](mailto:devrnaldo@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/devrnaldo)
+*  **Website Portofolio:** [devrnaldo.my.id](https://devrnaldo.my.id)
+*  **Pendidikan:** S1 Teknologi Informasi - Universitas Bangka Belitung (2022 – 2026).
+*  **Fokus Utama:** Pengembangan Aplikasi Web Full-Stack (Laravel, Next.js, React), Sistem IoT, & Arsitektur Cloud.
+*  **Saat ini sedang memperdalam:** Advanced TypeScript, System Architecture, & Cloud Infrastructure.
+*  **Hubungi saya:** [devrnaldo@gmail.com](mailto:devrnaldo@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/devrnaldo)
 
 ---
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-### 💻 Bahasa Pemrograman
+### Bahasa Pemrograman
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🚀 Framework & Library
+### Framework & Library
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🗄️ Database, Cloud & DevOps
+### Database, Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 🎨 Design & Utilities
+### Design & Utilities
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -83,7 +83,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
